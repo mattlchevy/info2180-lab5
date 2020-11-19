@@ -1,2 +1,3 @@
-# info2180-lab5
-sql and php
+# INFO2180 Lab 5
+
+This is Lab 5 for Matthew Chevannes on PHP and MySQL
